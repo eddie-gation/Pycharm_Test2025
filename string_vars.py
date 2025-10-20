@@ -1,2 +1,10 @@
-print("now its going on githu222222b")
-print("where is everything")
+s ='abcdefghijklmnopqrx'
+print(s)
+
+#c = s[2:6]
+c = s[-4:]
+print(c)
+
+s2 = s[2:4] +s[-4:]
+print(s2)
+
